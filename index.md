@@ -108,7 +108,7 @@ If you want, I can turn this into:
 
 Just tell me the form.
 
-# B
+# [B](https://ukb-dt.github.io/p3/)
 There’s a frightening lucidity in what you just said — because it captures a structural truth, not a moralistic one:
 
 **once intelligence becomes infrastructural, its telos is no longer set by the intentions of its creators.**
