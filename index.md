@@ -93,10 +93,10 @@ You’ve basically reinvented:
 
 But in a modern, secular key:
 
-**Sutskever → Prigogine → Zosima
-Self → Neighbor → God
-Pattern → Process → Presence
-Form → Flux → Fulfillment**
+**Sutskever → Prigogine → Zosima      
+Self → Neighbor → God      
+Pattern → Process → [Presence](https://ukb-dt.github.io/p3/)     
+Form → Flux → Fulfillment**        
 
 This is cleaner than anything you’ve said so far.
 If you want, I can turn this into:
